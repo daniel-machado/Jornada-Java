@@ -21,19 +21,19 @@ Estudo público e diário. Cada pasta corresponde a uma fase do plano, e cada co
 
 ## Progresso
 
-| Fase | Tema | Status |
-|---|---|---|
-| 0 | Setup do ambiente | ✅ |
-| 1 | Java Essencial | 🔄 Semana 1 |
-| 2 | Java Moderno (Streams, Optional, Generics) | ⬜ |
-| 3 | Ferramentas e Testes | ⬜ |
-| 4 | Banco de Dados e SQL | ⬜ |
-| 5 | Spring Boot | ⬜ |
-| 6 | Docker e CI/CD | ⬜ |
-| 7 | AWS para Java | ⬜ |
-| 8 | IA Corporativa (LangChain4j + Bedrock) | ⬜ |
-| 9 | Arquitetura e Design | ⬜ |
-| 10 | Concorrência e System Design | ⬜ |
+| Fase | Tema | Status      |
+|---|---|-------------|
+| 0 | Setup do ambiente | ✅          |
+| 1 | Java Essencial | 🔄 Semana 2 |
+| 2 | Java Moderno (Streams, Optional, Generics) | ⬜          |
+| 3 | Ferramentas e Testes | ⬜          |
+| 4 | Banco de Dados e SQL | ⬜          |
+| 5 | Spring Boot | ⬜          |
+| 6 | Docker e CI/CD | ⬜          |
+| 7 | AWS para Java | ⬜          |
+| 8 | IA Corporativa (LangChain4j + Bedrock) | ⬜          |
+| 9 | Arquitetura e Design | ⬜          |
+| 10 | Concorrência e System Design | ⬜          |
 
 ### Fase 1 — detalhamento
 
